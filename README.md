@@ -1,5 +1,5 @@
 # shutter_controler_py
-Contain controller for 3D printed beam-blockers
+Contain controller for 3D printed beam-blockers, the application is done with pyQT
 
 how to use:
 
