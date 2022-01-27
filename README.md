@@ -11,7 +11,7 @@ The application is completelly functional and can be compile with pyinstaller if
 
 The 3D printed shutter files can be found in thinguiverse.
 
-<img src="./resources/figure_1_readme.jpg" style="width:900px;height:900px;"/>
+<img src="./resources/figure_1_readme.jpg">
 <caption><center><font color='purple'><b> 3D printed Suhtters. </font></center></caption>
 
   
